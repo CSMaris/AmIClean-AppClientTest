@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AmIClean</string>
+    <string name="txt1">AmiClean</string>
+    <string name="txt2">Cleaning status</string>
+    <string name="txt3"></string>
+    <string name="txt4">Rate the cleaning</string>
+
+
+</resources>
